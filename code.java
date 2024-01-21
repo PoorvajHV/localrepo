@@ -11,5 +11,6 @@ public class code {
         } else {
             System.out.println("Odd number.");
         }
+        //this is also done by using ternary ? operator
     }
 }
